@@ -1,7 +1,7 @@
 # testgr00
 
 # 目次(ページ内リンク)
-* [HELLO](#HELLO)
+* [HELLO](#HELLO WORLD)
 * [README2](#README2)
 * [使い方](#使い方)
  
@@ -10,7 +10,7 @@ asdfasdfasdfasd
 asdfasfdf  
 asfdasdfasdfasdf  
 
-## HELLO 
+## HELLO WORLD
 111111111111111111  
 2222222222222222  
 333333333333  

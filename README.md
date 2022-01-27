@@ -1,7 +1,7 @@
 # testgr00
 
 # 目次(ページ内リンク)
-* [hoge](#hello)
+* [HELLO](#hello)
 * [README2](#readme2)
 * [使い方](#使い方)
  

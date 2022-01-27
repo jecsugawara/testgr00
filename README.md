@@ -2,8 +2,8 @@
 
 # 目次(ページ内リンク)
 * [aaaa](#readme)
-* [フロー](#readme2)
-* [ユースケース図](#使い方)
+* [README2](#readme2)
+* [使い方](#使い方)
 
 a  
 a  
@@ -32,7 +32,7 @@ asdfasdfasdfasd
 asdfasfdf  
 asfdasdfasdfasdf  
 
-## README  
+## HELLO 
 111111111111111111  
 2222222222222222  
 333333333333  

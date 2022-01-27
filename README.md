@@ -2,7 +2,7 @@
 
 # 目次(ページ内リンク)
 * [HELLO](#hello)
-* [README2](#readme2)
+* [README2](#README2)
 * [使い方](#使い方)
  
 asdf  

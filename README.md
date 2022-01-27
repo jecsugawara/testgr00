@@ -1,7 +1,7 @@
 # testgr00
 
 # 目次(ページ内リンク)
-* [HELLO](#HELLO WORLD)
+* [HELLO](#HELLO-WORLD)
 * [README2](#README2)
 * [使い方](#使い方)
  

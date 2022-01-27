@@ -1,32 +1,10 @@
 # testgr00
 
 # 目次(ページ内リンク)
-* [aaaa](#readme)
+* [hoge](#hello)
 * [README2](#readme2)
 * [使い方](#使い方)
-
-a  
-a  
-a   
-a  
-a  
-a   
-a  
-a  
-a   
-a  
-a  
-a   
-a  
-a  
-a   
-a  
-a  
-a   
-a  
-a  
-a   
-asdfasdfasdf   
+ 
 asdf  
 asdfasdfasdfasd  
 asdfasfdf  
